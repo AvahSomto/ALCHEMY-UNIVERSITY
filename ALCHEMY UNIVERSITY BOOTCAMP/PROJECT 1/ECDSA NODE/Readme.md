@@ -23,7 +23,7 @@ thereby enhancing the overall security and integrity of fund transfers.
 ## File Descriptions <a name="files"></a>
 
 There are two folders available here to showcase work related to the above questions.  
-The first folder 'client' while the second folder 'server'.  Another folder added was 'scripts' and is found in the server folder. 
+The first folder 'client' while the second folder 'server'.  Another folder added was 'scripts' and is found in the server folder.
 
 ## Results<a name="results"></a>
 
