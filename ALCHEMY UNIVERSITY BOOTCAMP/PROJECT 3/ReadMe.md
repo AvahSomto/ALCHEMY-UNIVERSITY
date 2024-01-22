@@ -31,9 +31,9 @@ The 'public', 'source' and the 'node modules' folders.
 2. This could include details such as the NFT's name, description, image URI, and other metadata attributes.
 Checking Transaction Status: The code is designed to check the status of a specific Ethereum transaction by querying the transaction hash using the Alchemy SDK.
 This involves determining whether the transaction has been successfully mined on the Ethereum blockchain.
-Address Balance Retrieval: The code snippets focus on retrieving the balance of an Ethereum address by using the Alchemy SDK.
+3. Address Balance Retrieval: The code snippets focus on retrieving the balance of an Ethereum address by using the Alchemy SDK.
 This could involve fetching the Ether balance or token balances associated with the specified address.
-Token Balance Query: The code aims to query the token balances associated with a specific Ethereum address and token contract address.
+4. Token Balance Query: The code aims to query the token balances associated with a specific Ethereum address and token contract address.
 This involves interacting with the Alchemy API to retrieve the token balances for the given address and token contract.
 Overall, the code snippets are geared towards interacting with the Ethereum blockchain and Alchemy API to achieve tasks such as retrieving NFT metadata, checking transaction status, and fetching address and token balances.
 These tasks are common in blockchain development and are essential for building applications that interact with the Ethereum network.
