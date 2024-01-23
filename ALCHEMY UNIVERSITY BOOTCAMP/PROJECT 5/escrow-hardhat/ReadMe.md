@@ -37,6 +37,7 @@ The main findings of the code is that the arbiter acts as an escrow agent for th
 The depositor will send funds to the arbiter, the arbiter will send the purchase to the beneficiary of the transaction, 
 if successful, the service will be delievered by the beneficiary.
 MetaMask was used to keep the private key secure.
+Apex was used to send the funds.
 
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
