@@ -3,8 +3,9 @@
 1. [Installation](#installation)
 2. [Project Motivation](#motivation)
 3. [File Description](#files)
-4. [Results](#results)
-5. [Licensing, Authors, and Acknowledgements](#licensing)
+4. [Setup](#setup)
+5. [Results](#results)
+6. [Licensing, Authors, and Acknowledgements](#licensing)
 
 ## Installation <a name="installation"></a>
 
@@ -30,7 +31,7 @@ display their ERC-721 tokens (NFTs), and view associated metadata. The applicati
 
 There are two folders 'source' and 'public'. The folders are explanatory.
 
-## Set Up
+## Setup
 
 1. Install dependencies by running `npm install`
 2. Start application by running `npm run dev`
